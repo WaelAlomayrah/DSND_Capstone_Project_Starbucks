@@ -1,0 +1,11 @@
+difficulty,duration,offer_id,offer_type,reward,email,mobile,social,web
+10,7,b_1,bogo,10,1,1,1,0
+10,5,b_2,bogo,10,1,1,1,1
+0,4,i_1,informational,0,1,1,0,1
+5,7,b_3,bogo,5,1,1,0,1
+20,10,d_1,discount,5,1,0,0,1
+7,7,d_2,discount,3,1,1,1,1
+10,10,d_3,discount,2,1,1,1,1
+0,3,i_2,informational,0,1,1,1,0
+5,5,b_4,bogo,5,1,1,1,1
+10,7,d_4,discount,2,1,1,0,1
