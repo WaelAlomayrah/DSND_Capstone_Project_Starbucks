@@ -27,5 +27,5 @@ transcript.json — records for transactions, offers received, offers viewed, an
 6. Logistic Regression classifier
 7. SVM classifier
 
-### for further deails visit this [blog](https://medium.com/@wayle1419/starbucks-offers-prediction-b1cbbdacddd1) 
+### for further details visit this [blog](https://medium.com/@wayle1419/starbucks-offers-prediction-b1cbbdacddd1) 
 
